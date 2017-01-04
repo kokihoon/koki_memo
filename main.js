@@ -34,3 +34,4 @@ app.on('activate', () => {
     createWindow()
   }
 })
+console.log("hello world")
